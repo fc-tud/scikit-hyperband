@@ -11,7 +11,7 @@ A scikit-learn compatible implementation of hyperband.
 Clone the git repository 
 
 ```bash
-git clone https://github.com/thuijskens/scikit-hyperband.git
+git clone https://github.com/fc-tud/scikit-hyperband.git
 ```
 
 and `cd` into the project directory and and install the package using `setuptools` as follows
